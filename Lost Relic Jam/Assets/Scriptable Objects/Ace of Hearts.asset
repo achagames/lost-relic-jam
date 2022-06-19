@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa45b12ca4057444d9b4fa6e3184a10a, type: 3}
+  m_Name: Ace of Hearts
+  m_EditorClassIdentifier: 
+  _cardName: Ace of Hearts
+  _frontTexture: {fileID: 21300000, guid: 112b67e9558260f438d2c70afa81d718, type: 3}
+  _backTexture: {fileID: 21300000, guid: 23ea831be98ba29478abe852c42aace1, type: 3}
